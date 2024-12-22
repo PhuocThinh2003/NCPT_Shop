@@ -1,0 +1,12 @@
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\bin\Debug\net6.0\SV21T1020725.DomainModels.deps.json
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\bin\Debug\net6.0\SV21T1020725.DomainModels.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\bin\Debug\net6.0\SV21T1020725.DomainModels.pdb
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.csproj.AssemblyReference.cache
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.AssemblyInfoInputs.cache
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.AssemblyInfo.cs
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.csproj.CoreCompileInputs.cache
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\refint\SV21T1020725.DomainModels.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\SV21T1020725.DomainModels.pdb
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.DomainModels\obj\Debug\net6.0\ref\SV21T1020725.DomainModels.dll

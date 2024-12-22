@@ -1,0 +1,17 @@
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.BusinessLayers.deps.json
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.BusinessLayers.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.BusinessLayers.pdb
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.csproj.AssemblyReference.cache
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.AssemblyInfoInputs.cache
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.AssemblyInfo.cs
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\refint\SV21T1020725.BusinessLayers.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.pdb
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\ref\SV21T1020725.BusinessLayers.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.DataLayers.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.DomainModels.dll
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.DataLayers.pdb
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\bin\Debug\net6.0\SV21T1020725.DomainModels.pdb
+D:\PhuocThinh\SourceCode\21T1020725\SV21T1020725\SV21T1020725.BusinessLayers\obj\Debug\net6.0\SV21T1020725.BusinessLayers.csproj.CopyComplete
